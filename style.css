@@ -1629,10 +1629,12 @@ html, body {
 }
 
 .telegram-link {
-  color: #0088cc;
-  text-decoration: none;
-  font-weight: 500;
-}
-.telegram-link:hover {
-  text-decoration: underline;
-}
+    color: #0088cc;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .telegram-link:hover {
+    text-decoration: underline;
+  }
+  
