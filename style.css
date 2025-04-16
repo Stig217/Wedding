@@ -9,7 +9,7 @@
 .screen .div {
   background-color: #e7d5c7;
   overflow: hidden;
-  width: 375.0px;
+  width: 100vw;
   height: 4413.28px;
   position: relative;
 }
@@ -19,7 +19,9 @@
   width: 636.33px;
   height: 2260.55px;
   top: 1798.83px;
-  left: -134.77px;
+  left: 50%;
+  transform: translateX(-50%);
+
 }
 
 .screen .ellipse {
@@ -181,11 +183,11 @@
 .screen .hands {
   height: 228.52px;
   top: 842.58px;
-  left: 134.77px;
   position: absolute;
-  width: 375.0px;
+  width: 100vw;
+  left: 50%;
+  transform: translateX(-50%);
 }
-
 .screen .group-2 {
   position: absolute;
   width: 323.44px;
@@ -729,7 +731,8 @@
   width: 566.02px;
   height: 360.94px;
   top: 1388.67px;
-  left: -127.73px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .screen .ellipse-11 {
@@ -745,10 +748,11 @@
 
 .screen .group-9 {
   position: absolute;
-  width: 410.16px;
+  width: 318.75px;
   height: 277.73px;
   top: 83.2px;
-  left: 155.86px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .screen .text-wrapper-25 {
@@ -1341,7 +1345,8 @@
   width: 549.61px;
   height: 1378.12px;
   top: 0;
-  left: -91.41px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .screen .ellipse-12 {
@@ -1369,17 +1374,19 @@
 .screen .hands-2 {
   height: 264.84px;
   top: 1113.28px;
-  left: 91.41px;
   position: absolute;
-  width: 375.0px;
+  width: 100vw;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .screen .element-foto {
-  position: absolute;
-  width: 375.0px;
+  position: relative;
+  width: 100vw;
   height: 575.39px;
   top: 0;
-  left: 91.41px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .screen .group-10 {
@@ -1527,7 +1534,9 @@
   width: 375.0px;
   height: 316.41px;
   top: 4096.88px;
-  left: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  
 }
 
 .screen .rectangle {
@@ -1595,5 +1604,4 @@
   0%, 100% { transform: scaleY(1); }
   50% { transform: scaleY(0.2); }
 }
-
 
