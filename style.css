@@ -1567,13 +1567,6 @@
   left: 1771px;
 }
 
-.animated-number {
-  transition: opacity 0.3s ease;
-}
-.number-change {
-  opacity: 0.3;
-}
-
   .audio-player {
     position: relative;
     width: 100%;
