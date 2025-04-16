@@ -73,7 +73,8 @@
   width: 319px;
   height: 359px;
   top: 45px;
-  left: 163px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .screen .line {
@@ -194,7 +195,8 @@
   width: 319px;
   height: 252px;
   top: 497px;
-  left: 163px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .screen .group-3 {
@@ -263,7 +265,8 @@
   width: 319px;
   height: 525px;
   top: 1165px;
-  left: 163px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .screen .group-5 {
@@ -427,7 +430,8 @@
   width: 321px;
   height: 118px;
   top: 1784px;
-  left: 164px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .screen .text-wrapper-12 {
@@ -487,7 +491,8 @@
   width: 319px;
   height: 169px;
   top: 2092px;
-  left: 162px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .screen .overlap-group {
@@ -1426,7 +1431,7 @@
 
 .screen .group-11 {
   position: absolute;
-  width: 318px;
+  width: 319px;
   height: 431px;
   top: 588px;
   left: 120px;
@@ -1435,7 +1440,8 @@
 .screen .div-7 {
   width: 305px;
   top: 252px;
-  left: 7px;
+  left: 50%;
+  transform: translate(-50%);
   font-family: "Great Vibes", cursive;
   color: #351c06;
   font-size: 38px;
