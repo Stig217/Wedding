@@ -243,27 +243,32 @@
               </span>
 <span class="text-wrapper-69">день нашого весілля</span>
 </p>
-<div class="equalizer-icon" id="equalizer">
-<div style="height: 6px"></div>
-<div style="height: 10px"></div>
-<div style="height: 5px"></div>
-<div style="height: 13px"></div>
-<div style="height: 15.3px"></div>
-<div style="height: 10px"></div>
-<div style="height: 6px"></div>
+
+<div class="audio-player">
+  <img src="img/play-1.svg" class="play-icon" id="playToggle" alt="play icon">
 </div>
 <audio id="wedding-music" src="audio/your-music.mp3"></audio>
+
 <script>
-  const equalizer = document.getElementById('equalizer');
+  const playToggle = document.getElementById('playToggle');
   const music = document.getElementById('wedding-music');
 
-  equalizer.addEventListener('click', () => {
-    if (music.paused) {
+  let isPlaying = false;
+
+  playToggle.addEventListener('click', () => {
+    isPlaying = !isPlaying;
+
+    playToggle.classList.add('fade-out');
+
+    setTimeout(() => {
+      playToggle.src = isPlaying ? 'img/play-2.svg' : 'img/play-1.svg';
+      playToggle.classList.remove('fade-out');
+    }, 150); // Плавна заміна іконки
+
+    if (isPlaying) {
       music.play();
-      equalizer.classList.add('playing');
     } else {
       music.pause();
-      equalizer.classList.remove('playing');
     }
   });
 </script>

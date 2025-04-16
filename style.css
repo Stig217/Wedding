@@ -107,7 +107,7 @@
 
 .screen .line-2 {
   position: absolute;
-  width: 2px;
+  width: 1.17px;
   height: 281.25px;
   top: 77.34px;
   left: 158.2px;
@@ -185,6 +185,7 @@
   top: 842.58px;
   position: absolute;
   width: 100vw;
+  max-width: 450px;
   left: 50%;
   transform: translateX(-50%);
 }
@@ -1376,6 +1377,7 @@
   top: 1113.28px;
   position: absolute;
   width: 100vw;
+  max-width: 450px;
   left: 50%;
   transform: translateX(-50%);
 }
@@ -1383,6 +1385,7 @@
 .screen .element-foto {
   position: relative;
   width: 100vw;
+  max-width: 450px;
   height: 575.39px;
   top: 0;
   left: 50%;
@@ -1541,10 +1544,11 @@
 
 .screen .rectangle {
   position: absolute;
-  width: 375.0px;
+  width: 100vw;
   height: 119.53px;
   top: 246.09px;
-  left: 0;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .screen .group-12 {
@@ -1572,36 +1576,24 @@
     opacity: 0.5;
   }
 
-.equalizer-icon {
-  position: absolute;
-  top: 0;
-  left: 295.31px;
-  width: 26.95px;
-  height: 17.93px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  cursor: pointer;
-}
-
-.equalizer-icon div {
-  width: 1.17px;
-  background-color: #351C06;
-  border-radius: 2.34px;
-  animation-play-state: paused;
-  transform-origin: bottom;
-}
-
-.equalizer-icon.playing div:nth-child(1) { animation: bounce 1s infinite ease-in-out 0s; }
-.equalizer-icon.playing div:nth-child(2) { animation: bounce 1s infinite ease-in-out 0.1s; }
-.equalizer-icon.playing div:nth-child(3) { animation: bounce 1s infinite ease-in-out 0.2s; }
-.equalizer-icon.playing div:nth-child(4) { animation: bounce 1s infinite ease-in-out 0.3s; }
-.equalizer-icon.playing div:nth-child(5) { animation: bounce 1s infinite ease-in-out 0.4s; }
-.equalizer-icon.playing div:nth-child(6) { animation: bounce 1s infinite ease-in-out 0.5s; }
-.equalizer-icon.playing div:nth-child(7) { animation: bounce 1s infinite ease-in-out 0.6s; }
-
-@keyframes bounce {
-  0%, 100% { transform: scaleY(1); }
-  50% { transform: scaleY(0.2); }
-}
-
+  .audio-player {
+    position: relative;
+    width: 100%;
+    height: 0;
+  }
+  
+  .audio-player .play-icon {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+    transition: opacity 0.2s ease-in-out;
+    z-index: 2;
+  }
+  
+  .audio-player .play-icon.fade-out {
+    opacity: 0;
+  }
