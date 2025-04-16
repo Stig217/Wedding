@@ -10,15 +10,15 @@
   background-color: #e7d5c7;
   overflow: hidden;
   width: 100vw;
-  height: 4413.28px;
+  height: 4413px;
   position: relative;
 }
 
 .screen .overlap {
   position: absolute;
-  width: 636.33px;
-  height: 2260.55px;
-  top: 1798.83px;
+  width: 636px;
+  height: 2261px;
+  top: 1799px;
   left: 50%;
   transform: translateX(-50%);
 
@@ -26,163 +26,163 @@
 
 .screen .ellipse {
   position: absolute;
-  width: 210.94px;
-  height: 210.94px;
-  top: 1016.02px;
-  left: 39.84px;
+  width: 211px;
+  height: 211px;
+  top: 1016px;
+  left: 40px;
   background-color: #bf9a7a4c;
-  border-radius: 105.47px;
-  filter: blur(46.23px);
+  border-radius: 105px;
+  filter: blur(46px);
 }
 
 .screen .ellipse-2 {
   position: absolute;
-  width: 210.94px;
-  height: 210.94px;
-  top: 339.84px;
+  width: 211px;
+  height: 211px;
+  top: 340px;
   left: 0;
   background-color: #bf9a7a4c;
-  border-radius: 105.47px;
-  filter: blur(46.23px);
+  border-radius: 105px;
+  filter: blur(46px);
 }
 
 .screen .ellipse-3 {
   position: absolute;
-  width: 210.94px;
-  height: 210.94px;
+  width: 211px;
+  height: 211px;
   top: 0;
-  left: 420.7px;
+  left: 421px;
   background-color: #bf9a7a4c;
-  border-radius: 105.47px;
-  filter: blur(46.23px);
+  border-radius: 105px;
+  filter: blur(46px);
 }
 
 .screen .ellipse-4 {
   position: absolute;
-  width: 210.94px;
-  height: 210.94px;
-  top: 710.16px;
-  left: 376.17px;
+  width: 211px;
+  height: 211px;
+  top: 710px;
+  left: 376px;
   background-color: #bf9a7a4c;
-  border-radius: 105.47px;
-  filter: blur(46.23px);
+  border-radius: 105px;
+  filter: blur(46px);
 }
 
 .screen .group {
   position: absolute;
-  width: 318.75px;
-  height: 358.59px;
-  top: 44.53px;
-  left: 162.89px;
+  width: 319px;
+  height: 359px;
+  top: 45px;
+  left: 163px;
 }
 
 .screen .line {
   position: absolute;
-  width: 71.48px;
-  height: 1.17px;
-  top: 15.23px;
+  width: 71px;
+  height: 1px;
+  top: 15px;
   left: 0;
 }
 
 .screen .img {
   position: absolute;
-  width: 73.83px;
-  height: 1.17px;
-  top: 15.23px;
-  left: 244.92px;
+  width: 74px;
+  height: 1px;
+  top: 15px;
+  left: 245px;
 }
 
 .screen .text-wrapper {
-  width: 162.89px;
+  width: 163px;
   top: 0;
-  left: 77.34px;
+  left: 77px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 46.88px;
+  font-size: 47px;
   letter-spacing: 0;
-  line-height: 22.27px;
+  line-height: 22px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .line-2 {
   position: absolute;
-  width: 1.17px;
-  height: 281.25px;
-  top: 77.34px;
-  left: 158.2px;
+  width: 1px;
+  height: 281px;
+  top: 77px;
+  left: 158px;
 }
 
 .screen .element {
-  width: 58.59px;
-  top: 100.78px;
-  left: 76.17px;
+  width: 59px;
+  top: 101px;
+  left: 76px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 23.44px;
+  font-size: 23px;
   text-align: center;
-  letter-spacing: 0.23px;
-  line-height: 17.58px;
+  letter-spacing: 0px;
+  line-height: 18px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .span {
-  letter-spacing: 0.05px;
+  letter-spacing: 0px;
 }
 
 .screen .text-wrapper-2 {
   font-family: 'Bona Nova', serif;
   font-style: italic;
-  font-size: 11.72px;
-  letter-spacing: 0.01px;
+  font-size: 12px;
+  letter-spacing: 0px;
 }
 
 .screen .p {
-  width: 90.23px;
-  top: 166.41px;
-  left: 181.64px;
+  width: 90px;
+  top: 166px;
+  left: 182px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 23.44px;
+  font-size: 23px;
   text-align: center;
-  letter-spacing: 0.23px;
-  line-height: 17.58px;
+  letter-spacing: 0px;
+  line-height: 18px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .element-2 {
-  width: 76.17px;
-  top: 232.03px;
-  left: 58.59px;
+  width: 76px;
+  top: 232px;
+  left: 59px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 23.44px;
+  font-size: 23px;
   text-align: center;
-  letter-spacing: 0.23px;
-  line-height: 17.58px;
+  letter-spacing: 0px;
+  line-height: 18px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .element-3 {
-  width: 96.09px;
-  top: 297.66px;
-  left: 181.64px;
+  width: 96px;
+  top: 298px;
+  left: 182px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 23.44px;
+  font-size: 23px;
   text-align: center;
-  letter-spacing: 0.23px;
-  line-height: 17.58px;
+  letter-spacing: 0px;
+  line-height: 18px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .hands {
-  height: 228.52px;
-  top: 842.58px;
+  height: 229px;
+  top: 843px;
   position: absolute;
   width: 100vw;
   max-width: 450px;
@@ -191,317 +191,317 @@
 }
 .screen .group-2 {
   position: absolute;
-  width: 318.75px;
-  height: 251.95px;
-  top: 496.88px;
-  left: 162.89px;
+  width: 319px;
+  height: 252px;
+  top: 497px;
+  left: 163px;
 }
 
 .screen .group-3 {
   position: absolute;
-  width: 212.11px;
-  height: 57.42px;
-  top: 194.53px;
-  left: 53.91px;
+  width: 212px;
+  height: 57px;
+  top: 195px;
+  left: 54px;
 }
 
 .screen .text-wrapper-3 {
-  width: 162.89px;
+  width: 163px;
   top: 0;
-  left: 77.34px;
+  left: 77px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 46.88px;
-  letter-spacing: 0.47px;
-  line-height: 22.27px;
+  font-size: 47px;
+  letter-spacing: 0px;
+  line-height: 22px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .div-2 {
-  width: 304.69px;
-  top: 77.34px;
-  left: 9.38px;
+  width: 305px;
+  top: 77px;
+  left: 9px;
   font-family: "Bona Nova", serif;
   color: #351c06;
-  font-size: 15.23px;
+  font-size: 15px;
   text-align: center;
-  letter-spacing: -0.3px;
-  line-height: 18.75px;
+  letter-spacing: -0px;
+  line-height: 19px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-4 {
-  letter-spacing: -0.04px;
+  letter-spacing: -0px;
 }
 
 .screen .text-wrapper-5 {
   font-family: "Great Vibes", cursive;
-  font-size: 18.75px;
-  letter-spacing: -0.06px;
+  font-size: 19px;
+  letter-spacing: -0px;
 }
 
 .screen .line-3 {
   position: absolute;
-  width: 75.0px;
-  height: 1.17px;
-  top: 15.23px;
+  width: 75px;
+  height: 1px;
+  top: 15px;
   left: 0;
 }
 
 .screen .line-4 {
   position: absolute;
-  width: 76.17px;
-  height: 1.17px;
-  top: 15.23px;
-  left: 242.58px;
+  width: 76px;
+  height: 1px;
+  top: 15px;
+  left: 243px;
 }
 
 .screen .group-4 {
   position: absolute;
-  width: 318.75px;
-  height: 525.0px;
-  top: 1164.84px;
-  left: 162.89px;
+  width: 319px;
+  height: 525px;
+  top: 1165px;
+  left: 163px;
 }
 
 .screen .group-5 {
   position: absolute;
-  width: 321.09px;
-  height: 30.47px;
+  width: 321px;
+  height: 30px;
   top: 0;
   left: 0;
 }
 
 .screen .text-wrapper-6 {
-  width: 134.77px;
+  width: 135px;
   top: 0;
-  left: 91.41px;
+  left: 91px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 46.88px;
-  letter-spacing: 0.47px;
-  line-height: 22.27px;
+  font-size: 47px;
+  letter-spacing: 0px;
+  line-height: 22px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .line-5 {
   position: absolute;
-  width: 87.89px;
-  height: 1.17px;
-  top: 15.23px;
+  width: 88px;
+  height: 1px;
+  top: 15px;
   left: 0;
 }
 
 .screen .line-6 {
   position: absolute;
-  width: 87.89px;
-  height: 1.17px;
-  top: 15.23px;
-  left: 230.86px;
+  width: 88px;
+  height: 1px;
+  top: 15px;
+  left: 231px;
 }
 
 .screen .text-wrapper-7 {
-  width: 304.69px;
-  top: 77.34px;
-  left: 17.58px;
+  width: 305px;
+  top: 77px;
+  left: 18px;
   font-family: "Bona Nova", serif;
   color: #351c06;
-  font-size: 15.23px;
+  font-size: 15px;
   text-align: center;
-  letter-spacing: -0.3px;
-  line-height: 17.58px;
+  letter-spacing: -0px;
+  line-height: 18px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-8 {
-  width: 310.55px;
-  top: 180.47px;
-  left: 5.86px;
+  width: 311px;
+  top: 180px;
+  left: 6px;
   font-family: "Bona Nova", serif;
   color: #351c06;
-  font-size: 15.23px;
+  font-size: 15px;
   text-align: center;
-  letter-spacing: -0.3px;
-  line-height: 17.58px;
+  letter-spacing: -0px;
+  line-height: 18px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-9 {
-  width: 304.69px;
-  top: 283.59px;
-  left: 8.2px;
+  width: 305px;
+  top: 284px;
+  left: 8px;
   font-family: "Bona Nova", serif;
   color: #351c06;
-  font-size: 15.23px;
+  font-size: 15px;
   text-align: center;
-  letter-spacing: -0.3px;
-  line-height: 17.58px;
+  letter-spacing: -0px;
+  line-height: 18px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-10 {
-  width: 317.58px;
-  top: 386.72px;
-  left: 2.34px;
+  width: 318px;
+  top: 387px;
+  left: 2px;
   font-family: "Bona Nova", serif;
   color: #351c06;
-  font-size: 15.23px;
+  font-size: 15px;
   text-align: center;
-  letter-spacing: -0.3px;
-  line-height: 17.58px;
+  letter-spacing: -0px;
+  line-height: 18px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-11 {
   position: absolute;
-  width: 290.62px;
-  top: 472.27px;
-  left: 15.23px;
+  width: 291px;
+  top: 472px;
+  left: 15px;
   font-family: "Bona Nova", serif;
   font-weight: 400;
   color: #351c06;
-  font-size: 15.23px;
+  font-size: 15px;
   text-align: center;
-  letter-spacing: -0.3px;
-  line-height: 17.58px;
+  letter-spacing: -0px;
+  line-height: 18px;
 }
 
 .screen .ellipse-5 {
   position: absolute;
-  width: 3.52px;
-  height: 3.52px;
-  top: 153.52px;
-  left: 157.03px;
+  width: 4px;
+  height: 4px;
+  top: 154px;
+  left: 157px;
   background-color: #351c068c;
-  border-radius: 1.76px;
+  border-radius: 2px;
 }
 
 .screen .ellipse-6 {
   position: absolute;
-  width: 3.52px;
-  height: 3.52px;
-  top: 256.64px;
-  left: 157.03px;
+  width: 4px;
+  height: 4px;
+  top: 257px;
+  left: 157px;
   background-color: #351c068c;
-  border-radius: 1.76px;
+  border-radius: 2px;
 }
 
 .screen .ellipse-7 {
   position: absolute;
-  width: 3.52px;
-  height: 3.52px;
-  top: 359.77px;
-  left: 157.03px;
+  width: 4px;
+  height: 4px;
+  top: 360px;
+  left: 157px;
   background-color: #351c068c;
-  border-radius: 1.76px;
+  border-radius: 2px;
 }
 
 .screen .ellipse-8 {
   position: absolute;
-  width: 3.52px;
-  height: 3.52px;
-  top: 445.31px;
-  left: 157.03px;
+  width: 4px;
+  height: 4px;
+  top: 445px;
+  left: 157px;
   background-color: #351c068c;
-  border-radius: 1.76px;
+  border-radius: 2px;
 }
 
 .screen .element-4 {
   position: absolute;
-  width: 375.0px;
-  height: 213.28px;
-  top: 1798.83px;
-  left: 134.77px;
+  width: 375px;
+  height: 213px;
+  top: 1799px;
+  left: 135px;
   object-fit: cover;
 }
 
 .screen .group-6 {
   position: absolute;
-  width: 321.09px;
-  height: 118.36px;
-  top: 1783.59px;
-  left: 164.06px;
+  width: 321px;
+  height: 118px;
+  top: 1784px;
+  left: 164px;
 }
 
 .screen .text-wrapper-12 {
-  width: 141.8px;
+  width: 142px;
   top: 0;
-  left: 87.89px;
+  left: 88px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 46.88px;
+  font-size: 47px;
   letter-spacing: 0;
-  line-height: 22.27px;
+  line-height: 22px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .line-7 {
   position: absolute;
-  width: 84.38px;
-  height: 1.17px;
-  top: 15.23px;
+  width: 84px;
+  height: 1px;
+  top: 15px;
   left: 0;
 }
 
 .screen .line-8 {
   position: absolute;
-  width: 84.38px;
-  height: 1.17px;
-  top: 15.23px;
-  left: 234.38px;
+  width: 84px;
+  height: 1px;
+  top: 15px;
+  left: 234px;
 }
 
 .screen .adresse-marina {
   position: absolute;
-  width: 257.81px;
-  top: 93.75px;
-  left: 30.47px;
+  width: 258px;
+  top: 94px;
+  left: 30px;
   font-family: "Great Vibes", cursive;
   font-weight: 400;
   color: #351c06;
-  font-size: 46.88px;
-  letter-spacing: 0.94px;
-  line-height: 15.23px;
+  font-size: 47px;
+  letter-spacing: 1px;
+  line-height: 15px;
 }
 
 .screen .text-wrapper-13 {
-  letter-spacing: 0.38px;
+  letter-spacing: 0px;
 }
 
 .screen .text-wrapper-14 {
   font-family: "Bona Nova", serif;
-  font-size: 11.72px;
-  letter-spacing: 0.02px;
+  font-size: 12px;
+  letter-spacing: 0px;
 }
 
 .screen .group-7 {
   position: absolute;
-  width: 318.75px;
-  height: 168.75px;
-  top: 2091.8px;
-  left: 161.72px;
+  width: 319px;
+  height: 169px;
+  top: 2092px;
+  left: 162px;
 }
 
 .screen .overlap-group {
   position: absolute;
-  width: 287.11px;
-  height: 65.62px;
+  width: 287px;
+  height: 66px;
   top: 0;
-  left: 31.64px;
+  left: 32px;
 }
 
 .screen .div-wrapper {
   position: absolute;
-  width: 237.89px;
-  height: 65.62px;
+  width: 238px;
+  height: 66px;
   top: 0;
   left: 0;
 }
@@ -511,195 +511,195 @@
   left: 0;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 46.88px;
+  font-size: 47px;
   letter-spacing: 0;
-  line-height: 32.81px;
+  line-height: 33px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .line-9 {
   position: absolute;
-  width: 77.34px;
-  height: 1.17px;
-  top: 17.58px;
-  left: 209.77px;
+  width: 77px;
+  height: 1px;
+  top: 18px;
+  left: 210px;
 }
 
 .screen .line-10 {
   position: absolute;
-  width: 26.95px;
-  height: 1.17px;
-  top: 17.58px;
+  width: 27px;
+  height: 1px;
+  top: 18px;
   left: 0;
 }
 
 .screen .group-8 {
   position: absolute;
-  width: 318.75px;
-  height: 56.25px;
-  top: 112.5px;
-  left: 11.72px;
+  width: 319px;
+  height: 56px;
+  top: 112px;
+  left: 12px;
 }
 
 .screen .text-wrapper-16 {
-  width: 32.81px;
-  top: 2.34px;
-  left: 7.03px;
+  width: 33px;
+  top: 2px;
+  left: 7px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 23.44px;
-  letter-spacing: 0.7px;
-  line-height: 32.81px;
+  font-size: 23px;
+  letter-spacing: 1px;
+  line-height: 33px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .div-3 {
-  width: 44.53px;
-  top: 30.47px;
+  width: 45px;
+  top: 30px;
   left: 0;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 15.23px;
-  letter-spacing: 0.46px;
-  line-height: 32.81px;
+  font-size: 15px;
+  letter-spacing: 0px;
+  line-height: 33px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-17 {
-  letter-spacing: 0.06px;
+  letter-spacing: 0px;
 }
 
 .screen .text-wrapper-18 {
   font-family: "Bona Nova", serif;
-  letter-spacing: 0.06px;
+  letter-spacing: 0px;
 }
 
 .screen .div-4 {
-  width: 55.08px;
-  top: 30.47px;
-  left: 80.86px;
+  width: 55px;
+  top: 30px;
+  left: 81px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 15.23px;
-  letter-spacing: 0.46px;
-  line-height: 32.81px;
+  font-size: 15px;
+  letter-spacing: 0px;
+  line-height: 33px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .div-5 {
-  width: 63.28px;
-  top: 30.47px;
-  left: 157.03px;
+  width: 63px;
+  top: 30px;
+  left: 157px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 15.23px;
-  letter-spacing: 0.46px;
-  line-height: 32.81px;
+  font-size: 15px;
+  letter-spacing: 0px;
+  line-height: 33px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .div-6 {
-  width: 58.59px;
-  top: 30.47px;
-  left: 246.09px;
+  width: 59px;
+  top: 30px;
+  left: 246px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 15.23px;
-  letter-spacing: 0.46px;
-  line-height: 32.81px;
+  font-size: 15px;
+  letter-spacing: 0px;
+  line-height: 33px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-19 {
-  width: 12.89px;
-  top: 2.34px;
-  left: 103.12px;
+  width: 13px;
+  top: 2px;
+  left: 103px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 23.44px;
-  letter-spacing: 0.7px;
-  line-height: 32.81px;
+  font-size: 23px;
+  letter-spacing: 1px;
+  line-height: 33px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-20 {
-  width: 23.44px;
-  top: 2.34px;
-  left: 176.95px;
+  width: 23px;
+  top: 2px;
+  left: 177px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 23.44px;
-  letter-spacing: 0.7px;
-  line-height: 32.81px;
+  font-size: 23px;
+  letter-spacing: 1px;
+  line-height: 33px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-21 {
-  width: 23.44px;
-  top: 2.34px;
-  left: 262.5px;
+  width: 23px;
+  top: 2px;
+  left: 262px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 23.44px;
-  letter-spacing: 0.7px;
-  line-height: 32.81px;
+  font-size: 23px;
+  letter-spacing: 1px;
+  line-height: 33px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-22 {
-  width: 9.38px;
+  width: 9px;
   top: 0;
-  left: 66.8px;
+  left: 67px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 23.44px;
-  letter-spacing: 0.7px;
-  line-height: 32.81px;
+  font-size: 23px;
+  letter-spacing: 1px;
+  line-height: 33px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-23 {
-  width: 9.38px;
+  width: 9px;
   top: 0;
-  left: 141.8px;
+  left: 142px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 23.44px;
-  letter-spacing: 0.7px;
-  line-height: 32.81px;
+  font-size: 23px;
+  letter-spacing: 1px;
+  line-height: 33px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-24 {
-  width: 9.38px;
+  width: 9px;
   top: 0;
-  left: 227.34px;
+  left: 227px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 23.44px;
-  letter-spacing: 0.7px;
-  line-height: 32.81px;
+  font-size: 23px;
+  letter-spacing: 1px;
+  line-height: 33px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
@@ -707,435 +707,435 @@
 
 .screen .ellipse-9 {
   position: absolute;
-  width: 210.94px;
-  height: 210.94px;
-  top: 1683.98px;
-  left: 425.39px;
+  width: 211px;
+  height: 211px;
+  top: 1684px;
+  left: 425px;
   background-color: #bf9a7a4c;
-  border-radius: 105.47px;
-  filter: blur(46.23px);
+  border-radius: 105px;
+  filter: blur(46px);
 }
 
 .screen .ellipse-10 {
   position: absolute;
-  width: 210.94px;
-  height: 210.94px;
-  top: 1996.88px;
-  left: 9.38px;
+  width: 211px;
+  height: 211px;
+  top: 1997px;
+  left: 9px;
   background-color: #bf9a7a4c;
-  border-radius: 105.47px;
-  filter: blur(46.23px);
+  border-radius: 105px;
+  filter: blur(46px);
 }
 
 .screen .overlap-2 {
   position: absolute;
-  width: 566.02px;
-  height: 360.94px;
-  top: 1388.67px;
+  width: 566px;
+  height: 361px;
+  top: 1389px;
   left: 50%;
   transform: translateX(-50%);
 }
 
 .screen .ellipse-11 {
   position: absolute;
-  width: 210.94px;
-  height: 210.94px;
+  width: 211px;
+  height: 211px;
   top: 0;
   left: 0;
   background-color: #bf9a7a4c;
-  border-radius: 105.47px;
-  filter: blur(46.23px);
+  border-radius: 105px;
+  filter: blur(46px);
 }
 
 .screen .group-9 {
   position: absolute;
-  width: 318.75px;
-  height: 277.73px;
-  top: 83.2px;
+  width: 319px;
+  height: 278px;
+  top: 83px;
   left: 50%;
   transform: translateX(-50%);
 }
 
 .screen .text-wrapper-25 {
-  width: 45.7px;
-  top: 71.48px;
-  left: 1.17px;
+  width: 46px;
+  top: 71px;
+  left: 1px;
   font-family: "Bona Nova", serif;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   text-align: center;
-  letter-spacing: 0.12px;
-  line-height: 23.44px;
+  letter-spacing: 0px;
+  line-height: 23px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-26 {
-  width: 45.7px;
-  top: 71.48px;
-  left: 46.88px;
+  width: 46px;
+  top: 71px;
+  left: 47px;
   font-family: "Bona Nova", serif;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   text-align: center;
-  letter-spacing: 0.12px;
-  line-height: 23.44px;
+  letter-spacing: 0px;
+  line-height: 23px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-27 {
-  width: 45.7px;
-  top: 71.48px;
-  left: 92.58px;
+  width: 46px;
+  top: 71px;
+  left: 93px;
   font-family: "Bona Nova", serif;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   text-align: center;
-  letter-spacing: 0.12px;
-  line-height: 23.44px;
+  letter-spacing: 0px;
+  line-height: 23px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-28 {
-  width: 44.53px;
-  top: 71.48px;
-  left: 138.28px;
+  width: 45px;
+  top: 71px;
+  left: 138px;
   font-family: "Bona Nova", serif;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   text-align: center;
-  letter-spacing: 0.12px;
-  line-height: 23.44px;
+  letter-spacing: 0px;
+  line-height: 23px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-29 {
-  width: 45.7px;
-  top: 71.48px;
-  left: 181.64px;
+  width: 46px;
+  top: 71px;
+  left: 182px;
   font-family: "Bona Nova", serif;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   text-align: center;
-  letter-spacing: 0.12px;
-  line-height: 23.44px;
+  letter-spacing: 0px;
+  line-height: 23px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-30 {
-  width: 45.7px;
-  top: 71.48px;
-  left: 227.34px;
+  width: 46px;
+  top: 71px;
+  left: 227px;
   font-family: "Bona Nova", serif;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   text-align: center;
-  letter-spacing: 0.12px;
-  line-height: 23.44px;
+  letter-spacing: 0px;
+  line-height: 23px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-31 {
-  width: 45.7px;
-  top: 71.48px;
-  left: 273.05px;
+  width: 46px;
+  top: 71px;
+  left: 273px;
   font-family: "Bona Nova", serif;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   text-align: center;
-  letter-spacing: 0.12px;
-  line-height: 23.44px;
+  letter-spacing: 0px;
+  line-height: 23px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-32 {
-  width: 120.7px;
+  width: 121px;
   top: 0;
-  left: 98.44px;
+  left: 98px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 46.88px;
+  font-size: 47px;
   letter-spacing: 0;
-  line-height: 22.27px;
+  line-height: 22px;
   white-space: nowrap;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-33 {
-  width: 7.03px;
-  top: 101.95px;
-  left: 201.56px;
+  width: 7px;
+  top: 102px;
+  left: 202px;
   font-family: "WindSong-Regular", italic;
   color: #351c06;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-34 {
-  width: 7.03px;
-  top: 101.95px;
-  left: 247.27px;
+  width: 7px;
+  top: 102px;
+  left: 247px;
   font-family: "WindSong-Regular", italic;
   color: #351c06;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-35 {
-  width: 7.03px;
-  top: 101.95px;
-  left: 292.97px;
+  width: 7px;
+  top: 102px;
+  left: 293px;
   font-family: "WindSong-Regular", italic;
   color: #351c06;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-36 {
-  width: 11.72px;
-  top: 138.28px;
-  left: 290.62px;
+  width: 12px;
+  top: 138px;
+  left: 291px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-37 {
-  width: 11.72px;
-  top: 138.28px;
-  left: 246.09px;
+  width: 12px;
+  top: 138px;
+  left: 246px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-38 {
-  width: 7.03px;
-  top: 138.28px;
-  left: 201.56px;
+  width: 7px;
+  top: 138px;
+  left: 202px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-39 {
-  width: 7.03px;
-  top: 138.28px;
-  left: 159.38px;
+  width: 7px;
+  top: 138px;
+  left: 159px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-40 {
-  width: 7.03px;
-  top: 138.28px;
-  left: 114.84px;
+  width: 7px;
+  top: 138px;
+  left: 115px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-41 {
-  width: 7.03px;
-  top: 138.28px;
-  left: 65.62px;
+  width: 7px;
+  top: 138px;
+  left: 66px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-42 {
-  width: 7.03px;
-  top: 138.28px;
-  left: 19.92px;
+  width: 7px;
+  top: 138px;
+  left: 20px;
   font-family: "WindSong-Regular", italic;
   color: #351c06;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-43 {
-  width: 9.38px;
-  top: 181.64px;
-  left: 18.75px;
+  width: 9px;
+  top: 182px;
+  left: 19px;
   font-family: "WindSong-Regular", italic;
   color: #351c06;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-44 {
-  width: 11.72px;
-  top: 181.64px;
-  left: 63.28px;
+  width: 12px;
+  top: 182px;
+  left: 63px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-45 {
-  width: 11.72px;
-  top: 181.64px;
-  left: 112.5px;
+  width: 12px;
+  top: 182px;
+  left: 112px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-46 {
-  width: 11.72px;
-  top: 181.64px;
-  left: 155.86px;
+  width: 12px;
+  top: 182px;
+  left: 156px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-47 {
-  width: 10.55px;
-  top: 181.64px;
-  left: 199.22px;
+  width: 11px;
+  top: 182px;
+  left: 199px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-48 {
-  width: 10.55px;
-  top: 181.64px;
-  left: 244.92px;
+  width: 11px;
+  top: 182px;
+  left: 245px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-49 {
-  width: 10.55px;
-  top: 181.64px;
-  left: 290.62px;
+  width: 11px;
+  top: 182px;
+  left: 291px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-50 {
-  width: 15.23px;
-  top: 225.0px;
-  left: 243.75px;
+  width: 15px;
+  top: 225px;
+  left: 244px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-51 {
-  width: 14.06px;
-  top: 225.0px;
-  left: 289.45px;
+  width: 14px;
+  top: 225px;
+  left: 289px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
@@ -1143,21 +1143,21 @@
 
 .screen .overlap-group-2 {
   position: absolute;
-  width: 25.78px;
-  height: 24.61px;
-  top: 217.97px;
-  left: 194.53px;
+  width: 26px;
+  height: 25px;
+  top: 218px;
+  left: 195px;
 }
 
 .screen .text-wrapper-52 {
-  width: 16.41px;
-  top: 7.03px;
-  left: 4.69px;
+  width: 16px;
+  top: 7px;
+  left: 5px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
@@ -1165,161 +1165,161 @@
 
 .screen .vector {
   position: absolute;
-  width: 25.78px;
-  height: 24.61px;
-  top: 1.17px;
-  left: -2.34px;
+  width: 26px;
+  height: 25px;
+  top: 1px;
+  left: -2px;
 }
 
 .screen .text-wrapper-53 {
-  width: 12.89px;
-  top: 225.0px;
-  left: 155.86px;
+  width: 13px;
+  top: 225px;
+  left: 156px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-54 {
-  width: 15.23px;
-  top: 225.0px;
-  left: 112.5px;
+  width: 15px;
+  top: 225px;
+  left: 112px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-55 {
-  width: 9.38px;
-  top: 225.0px;
-  left: 63.28px;
+  width: 9px;
+  top: 225px;
+  left: 63px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-56 {
-  width: 10.55px;
-  top: 225.0px;
-  left: 17.58px;
+  width: 11px;
+  top: 225px;
+  left: 18px;
   font-family: "WindSong-Regular", italic;
   color: #351c06;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-57 {
-  width: 14.06px;
-  top: 268.36px;
-  left: 15.23px;
+  width: 14px;
+  top: 268px;
+  left: 15px;
   font-family: "WindSong-Regular", italic;
   color: #351c06;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-58 {
-  width: 14.06px;
-  top: 268.36px;
-  left: 60.94px;
+  width: 14px;
+  top: 268px;
+  left: 61px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-59 {
-  width: 14.06px;
-  top: 268.36px;
-  left: 111.33px;
+  width: 14px;
+  top: 268px;
+  left: 111px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-60 {
-  width: 14.06px;
-  top: 268.36px;
-  left: 154.69px;
+  width: 14px;
+  top: 268px;
+  left: 155px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-61 {
-  width: 14.06px;
-  top: 268.36px;
-  left: 198.05px;
+  width: 14px;
+  top: 268px;
+  left: 198px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-62 {
-  width: 12.89px;
-  top: 268.36px;
-  left: 242.58px;
+  width: 13px;
+  top: 268px;
+  left: 243px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
 }
 
 .screen .text-wrapper-63 {
-  width: 11.72px;
-  top: 268.36px;
-  left: 289.45px;
+  width: 12px;
+  top: 268px;
+  left: 289px;
   font-family: "WindSong-Regular", italic;
   color: #000000;
-  font-size: 11.72px;
+  font-size: 12px;
   letter-spacing: 0;
-  line-height: 10.55px;
+  line-height: 11px;
   position: absolute;
   font-weight: 400;
   white-space: nowrap;
@@ -1327,24 +1327,24 @@
 
 .screen .line-11 {
   position: absolute;
-  width: 94.92px;
-  height: 1.17px;
-  top: 11.72px;
+  width: 95px;
+  height: 1px;
+  top: 12px;
   left: 0;
 }
 
 .screen .line-12 {
   position: absolute;
-  width: 94.92px;
-  height: 1.17px;
-  top: 11.72px;
-  left: 223.83px;
+  width: 95px;
+  height: 1px;
+  top: 12px;
+  left: 224px;
 }
 
 .screen .overlap-3 {
   position: absolute;
-  width: 549.61px;
-  height: 1378.12px;
+  width: 550px;
+  height: 1378px;
   top: 0;
   left: 50%;
   transform: translateX(-50%);
@@ -1352,29 +1352,29 @@
 
 .screen .ellipse-12 {
   position: absolute;
-  width: 210.94px;
-  height: 210.94px;
-  top: 972.66px;
-  left: 338.67px;
+  width: 211px;
+  height: 211px;
+  top: 973px;
+  left: 339px;
   background-color: #bf9a7a4c;
-  border-radius: 105.47px;
-  filter: blur(46.23px);
+  border-radius: 105px;
+  filter: blur(46px);
 }
 
 .screen .ellipse-13 {
   position: absolute;
-  width: 210.94px;
-  height: 210.94px;
-  top: 561.33px;
+  width: 211px;
+  height: 211px;
+  top: 561px;
   left: 0;
   background-color: #bf9a7a4c;
-  border-radius: 105.47px;
-  filter: blur(46.23px);
+  border-radius: 105px;
+  filter: blur(46px);
 }
 
 .screen .hands-2 {
-  height: 264.84px;
-  top: 1113.28px;
+  height: 265px;
+  top: 1113px;
   position: absolute;
   width: 100vw;
   max-width: 450px;
@@ -1386,7 +1386,7 @@
   position: relative;
   width: 100vw;
   max-width: 450px;
-  height: 575.39px;
+  height: 575px;
   top: 0;
   left: 50%;
   transform: translateX(-50%);
@@ -1394,149 +1394,149 @@
 
 .screen .group-10 {
   position: absolute;
-  width: 180.47px;
-  height: 527.34px;
-  top: 18.75px;
-  left: 108.98px;
+  width: 180px;
+  height: 527px;
+  top: 19px;
+  left: 109px;
 }
 
 .screen .text-wrapper-64 {
   position: absolute;
-  width: 104.3px;
-  top: 509.77px;
+  width: 104px;
+  top: 510px;
   left: 0;
   transform: rotate(0.27deg);
   font-family: "WindSong", cursive;
   font-weight: 500;
   color: #ebe1d5d1;
-  font-size: 23.44px;
-  letter-spacing: 0.94px;
-  line-height: 23.44px;
+  font-size: 23px;
+  letter-spacing: 1px;
+  line-height: 23px;
   white-space: nowrap;
 }
 
 .screen .save {
   position: absolute;
-  width: 164.06px;
-  height: 117.19px;
+  width: 164px;
+  height: 117px;
   top: 0;
-  left: 14.06px;
+  left: 14px;
   object-fit: cover;
 }
 
 .screen .group-11 {
   position: absolute;
-  width: 318.25px;
-  height: 431.25px;
-  top: 588.28px;
-  left: 119.53px;
+  width: 318px;
+  height: 431px;
+  top: 588px;
+  left: 120px;
 }
 
 .screen .div-7 {
-  width: 304.69px;
-  top: 251.95px;
-  left: 7.03px;
+  width: 305px;
+  top: 252px;
+  left: 7px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 37.5px;
+  font-size: 38px;
   text-align: center;
-  line-height: 17.58px;
+  line-height: 18px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .text-wrapper-65 {
   letter-spacing: 0;
-  line-height: 23.44px;
+  line-height: 23px;
 }
 
 .screen .text-wrapper-66 {
   font-family: "Bona Nova-Bold", Helvetica;
   font-weight: 700;
-  font-size: 23.44px;
-  letter-spacing: 0.05px;
-  line-height: 21.09px;
+  font-size: 23px;
+  letter-spacing: 0px;
+  line-height: 21px;
 }
 
 .screen .text-wrapper-67 {
   font-family: "Bona Nova", serif;
-  font-size: 15.23px;
-  letter-spacing: 0.04px;
-  line-height: 18.75px;
+  font-size: 15px;
+  letter-spacing: 0px;
+  line-height: 19px;
 }
 
 .screen .text-wrapper-68 {
-  font-size: 15.23px;
-  letter-spacing: 0.04px;
-  line-height: 18.75px;
+  font-size: 15px;
+  letter-spacing: 0px;
+  line-height: 19px;
 }
 
 .screen .text-wrapper-69 {
-  font-size: 18.75px;
-  letter-spacing: 0.06px;
-  line-height: 18.75px;
+  font-size: 19px;
+  letter-spacing: 0px;
+  line-height: 19px;
 }
 
 .screen .microfon {
   position: absolute;
-  width: 28.12px;
-  height: 18.75px;
+  width: 28px;
+  height: 19px;
   top: 0;
-  left: 295.31px;
+  left: 295px;
 }
 
 .screen .overlap-4 {
   position: absolute;
-  width: 318.75px;
-  height: 58.59px;
-  top: 71.48px;
+  width: 319px;
+  height: 59px;
+  top: 71px;
   left: 0;
 }
 
 .screen .line-13 {
   position: absolute;
-  width: 141.8px;
-  height: 1.17px;
-  top: 29.3px;
+  width: 142px;
+  height: 1px;
+  top: 29px;
   left: 0;
 }
 
 .screen .line-14 {
   position: absolute;
-  width: 141.8px;
-  height: 1.17px;
-  top: 29.3px;
-  left: 176.95px;
+  width: 142px;
+  height: 1px;
+  top: 29px;
+  left: 177px;
 }
 
 .screen .y-logo {
   position: absolute;
-  width: 58.59px;
-  height: 58.59px;
+  width: 59px;
+  height: 59px;
   top: 0;
-  left: 130.08px;
+  left: 130px;
   object-fit: cover;
 }
 
 .screen .text-wrapper-70 {
-  width: 216.8px;
-  top: 161.72px;
-  left: 99.61px;
+  width: 217px;
+  top: 162px;
+  left: 100px;
   font-family: "Great Vibes", cursive;
   color: #351c06;
-  font-size: 14.06px;
+  font-size: 14px;
   text-align: center;
   letter-spacing: 0;
-  line-height: 14.06px;
+  line-height: 14px;
   position: absolute;
   font-weight: 400;
 }
 
 .screen .overlap-5 {
   position: absolute;
-  width: 375.0px;
-  height: 316.41px;
-  top: 4096.88px;
+  width: 375px;
+  height: 316px;
+  top: 4097px;
   left: 50%;
   transform: translateX(-50%);
   
@@ -1545,26 +1545,26 @@
 .screen .rectangle {
   position: absolute;
   width: 100vw;
-  height: 119.53px;
-  top: 246.09px;
+  height: 120px;
+  top: 246px;
   left: 50%;
   transform: translateX(-50%);
 }
 
 .screen .group-12 {
   position: absolute;
-  width: 296.48px;
-  height: 296.48px;
+  width: 296px;
+  height: 296px;
   top: 0;
-  left: 38.67px;
+  left: 39px;
 }
 
 .screen .rectangle-2 {
   position: absolute;
-  width: 2343.75px;
-  height: 398.44px;
-  top: 3326.95px;
-  left: 1770.7px;
+  width: 2344px;
+  height: 398px;
+  top: 3327px;
+  left: 1771px;
 }
 
 .animated-number {
@@ -1572,7 +1572,7 @@
   }
   
   .number-change {
-    transform: translateY(-5.86px);
+    transform: translateY(-6px);
     opacity: 0.5;
   }
 
