@@ -1597,45 +1597,124 @@
 }
 
 
-/* === АДАПТИВ === */
+/* Адаптивний стиль із пропорційним масштабуванням до 375px */
+
 * {
   box-sizing: border-box;
 }
-html, body {
+
+body {
   margin: 0;
   padding: 0;
-  width: 100%;
-  overflow-x: hidden;
+  background-color: #f7e5d2;
+  font-family: 'Cormorant Garamond', serif;
+  color: #3b1f0d;
 }
 
-/* Контейнер */
-.screen, .div {
-  max-width: 1687.5px;
+.container {
   width: 100%;
+  max-width: 375px;
   margin: 0 auto;
-  padding: 0
-;
+  padding: 0 12px;
 }
 
-/* Адаптивна типографіка */
-@media (max-width: 900.0px) {
-  h1, h2, h3, p {
-    text-align: left !important;
-    font-size: 18.75px !important;
-  }
-  .text-wrapper-11 {
-    font-size: 17.58px !important;
-    text-align: left !important;
-  }
+h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  margin-top: 24px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 16px 0;
+  text-align: center;
+}
+
+.section {
+  padding: 32px 0;
 }
 
 .telegram-link {
-    color: #0088cc;
-    text-decoration: none;
-    font-weight: 500;
+  font-size: 18px;
+  color: #0088cc;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 12px;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+a {
+  color: #0088cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  padding-left: 20px;
+  list-style: disc;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #bfa88b;
+  margin: 24px 0;
+}
+
+/* Media запити */
+
+@media (max-width: 374px) {
+  .container {
+    padding: 0 10px;
   }
-  
-  .telegram-link:hover {
-    text-decoration: underline;
+  h1 {
+    font-size: 30px;
   }
-  
+  p {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 375px) and (max-width: 767px) {
+  .container {
+    padding: 0 16px;
+  }
+  h1 {
+    font-size: 34px;
+  }
+  p {
+    font-size: 17px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+    padding: 0 32px;
+  }
+  h1 {
+    font-size: 42px;
+  }
+  p {
+    font-size: 20px;
+  }
+}
