@@ -1434,7 +1434,8 @@
   width: 319px;
   height: 431px;
   top: 588px;
-  left: 120px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .screen .div-7 {
