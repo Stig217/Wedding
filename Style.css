@@ -1613,7 +1613,8 @@ html, body {
   max-width: 1687.5px;
   width: 100%;
   margin: 0 auto;
-  padding: 0 18.75px;
+  padding: 0
+;
 }
 
 /* Адаптивна типографіка */
